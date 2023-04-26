@@ -121,9 +121,5 @@ public class buttons : MonoBehaviour
         }
 
     }    
-
-   }
-
-   public void calc() {
    }
 }
